@@ -1,4 +1,4 @@
-#include "bin_util.h"
+#include "../include/bin_util.h"
 #include <assert.h>
 
 //
